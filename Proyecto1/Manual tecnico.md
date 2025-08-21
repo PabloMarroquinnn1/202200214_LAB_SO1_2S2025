@@ -1023,17 +1023,8 @@ curl -s http://192.168.122.2:8080/api1/202200214/llamar-api2 | jq '.'
 ```
 
 ---
-###Maquinas Virtuales funcionando
+### Maquinas Virtuales funcionando
 ![alt text](image.png)
-###Maquinas Virtuales en KVM
+### Maquinas Virtuales en KVM
 ![alt text](<Imagen de WhatsApp 2025-08-20 a las 20.25.16_9639899d.jpg>)
-## Información del Autor
-
-**Estudiante**: Pablo Alejandro Marroquin Cutz  
-**Carnet**: 202200214  
-**Curso**: Sistemas Operativos 1  
-**Sección**: [P]  
-**Auxiliar**: @roldyoran  
-**Fecha**: Agosto 2025  
-
 ---
