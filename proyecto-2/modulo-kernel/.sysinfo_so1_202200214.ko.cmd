@@ -1,0 +1,1 @@
+savedcmd_sysinfo_so1_202200214.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /usr/src/linux-headers-6.14.0-32-generic/scripts/module.lds -o sysinfo_so1_202200214.ko sysinfo_so1_202200214.o sysinfo_so1_202200214.mod.o .module-common.o

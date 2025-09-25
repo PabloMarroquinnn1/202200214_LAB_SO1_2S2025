@@ -1,0 +1,3 @@
+FROM python:3.11
+COPY cpu_stress.py /cpu_stress.py
+CMD ["python3", "/cpu_stress.py"]

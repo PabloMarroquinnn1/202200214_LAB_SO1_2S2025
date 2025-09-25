@@ -1,0 +1,3 @@
+FROM python:3.11
+COPY ram_stress.py /ram_stress.py
+CMD ["python3", "/ram_stress.py"]
