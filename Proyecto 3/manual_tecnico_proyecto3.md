@@ -1,7 +1,7 @@
 # Manual Técnico - Proyecto 3: Tweets del Clima
 ## Arquitectura Distribuida en Kubernetes
 
-**Estudiante:** Pablo Sánchez  
+**Estudiante:** Pablo Alejandro Marroquin Cutz 
 **Carné:** 202200214  
 **Curso:** Sistemas Operativos 1  
 **Fecha:** 22 de octubre de 2025
